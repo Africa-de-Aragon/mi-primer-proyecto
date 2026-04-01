@@ -1,4 +1,11 @@
-Mi primer proyecto con Git
+# Mi primer proyecto con Git
 
-modificado
+Este proyecto es mi primera práctica con Git y GitHub.
+
+## Contenido
+- README.md
+- Otros archivos
+
+## Objetivo
+Aprender a usar Git, GitHub y VS Code.
 
