@@ -9,3 +9,4 @@ Este proyecto es mi primera práctica con Git y GitHub.
 ## Objetivo
 Aprender a usar Git, GitHub y VS Code.
 
+* quiero ver cursiva *
